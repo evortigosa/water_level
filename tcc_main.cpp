@@ -10,7 +10,7 @@
 #include <cstdlib>
 #include <math.h>
 
-#define QTD_IMG 8
+#define QTD_IMG 1
 #define PROFUND 275
 
 using namespace std;
