@@ -148,7 +148,7 @@ int main(int argc, char **argv) {
         line(out_im, Point(xb, yb), Point(xt, yt), Scalar(255, 0, 0), 20, 8);
 
         line(out_im, Point(lines[rc_i][0], lines[rc_i][1]),   // Point(col, row)
-           Point(lines[rc_i][2], lines[rc_i][3]), Scalar(0, 255, 0), 1, 8);
+           Point(lines[rc_i][2], lines[rc_i][3]), Scalar(0, 255, 0), 20, 8);
 
         //line(out_im, Point(col, row), Point(col+1, row+1), Scalar(0, 0, 255), 20, 8);
 
